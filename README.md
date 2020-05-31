@@ -4,3 +4,6 @@ you can add more photos in images to try more results... hyperparamters have not
 
 link for data:
 https://drive.google.com/file/d/1U6UBpuN6h3WRPswX2rkM7d9w7tQrxK2b/view?usp=sharing
+
+
+I am currently using tensorflow's older version and soon going to update the code
